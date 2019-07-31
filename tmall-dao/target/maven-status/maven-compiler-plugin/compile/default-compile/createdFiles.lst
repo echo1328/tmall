@@ -1,0 +1,17 @@
+com\tmall\mapper\AddressMapper.class
+com\tmall\mapper\CommentMapper.class
+com\tmall\mapper\CarMapper.class
+com\tmall\mapper\BrandMapper.class
+com\tmall\mapper\OrderMapper.class
+com\tmall\mapper\CitiesMapper.class
+com\tmall\mapper\SellerMapper.class
+com\tmall\mapper\UserMapper.class
+com\tmall\mapper\ShopMapper.class
+com\tmall\mapper\AdContentMapper.class
+com\tmall\mapper\SortMapper.class
+com\tmall\mapper\SeckillMapper.class
+com\tmall\mapper\MyOrderMapper.class
+com\tmall\mapper\ProvincesMapper.class
+com\tmall\mapper\AdTypeMapper.class
+com\tmall\mapper\AreasMapper.class
+com\tmall\mapper\GoodsMapper.class
