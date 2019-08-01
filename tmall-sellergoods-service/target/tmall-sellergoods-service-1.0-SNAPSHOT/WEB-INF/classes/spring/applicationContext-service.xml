@@ -13,5 +13,4 @@
     <dubbo:registry address="zookeeper://47.112.8.164:2181"/>
     <dubbo:annotation package="com.tmall.sellergoods.service.impl" />
    
-   
 </beans>
