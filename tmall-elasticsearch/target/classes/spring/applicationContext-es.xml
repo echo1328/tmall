@@ -13,7 +13,7 @@
 		">
 
 	<!-- elastic客户端对象的配置 -->
-	<elasticsearch:transport-client id="esClient" cluster-name="elasticsearch" cluster-nodes="localhost:9300"/>
+	<elasticsearch:transport-client id="esClient" cluster-name="elasticsearch" cluster-nodes="106.15.45.114:9300"/>
 
 	<!-- 配置包扫描器，扫描dao的接口 -->
 	<elasticsearch:repositories base-package="com.tmall.search.repositories"/>
