@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: SpringDataElasticSearchTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.841 sec - in SpringDataElasticSearchTest

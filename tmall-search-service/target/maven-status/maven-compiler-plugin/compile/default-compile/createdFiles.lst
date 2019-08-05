@@ -1,0 +1,3 @@
+com\tmall\search\entity\Goods.class
+com\tmall\search\service\impl\GoodsSearchServiceImpl.class
+com\tmall\search\repositories\GoodsRepository.class
