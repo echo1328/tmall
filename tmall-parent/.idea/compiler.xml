@@ -6,14 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="tmall-sellergoods-interface" />
         <module name="tmall-dao" />
+        <module name="tmall-search-interface" />
         <module name="tmall-common" />
+        <module name="tmall-elasticsearch" />
         <module name="tmall-shop-web" />
         <module name="tmall-pojo" />
         <module name="tmall-manager-web" />
+        <module name="tmall-search-service" />
         <module name="tmall-sellergoods-service" />
-        <module name="tmall-sellergoods-interface" />
+        <module name="tmall-search-web" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tmall-search" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
