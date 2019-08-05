@@ -1,6 +1,5 @@
 import com.tmall.search.entity.Article;
 import com.tmall.search.repositories.ArticleRepository;
-import org.elasticsearch.index.query.QueryBuilder;
 import org.elasticsearch.index.query.QueryBuilders;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -51,7 +50,7 @@ public class ESTest {
         //创建一个Article对象
         Article article = new Article();
         article.setId(29);
-        article.setTitle("Maven2");
+        article.setTitle("Maven2222");
         article.setContent("Maven项目对象模型(POM)，可以通过一小段描述信息来管理项目的构建，报告和文档的项目管理工具软件。");
         //把文档写入索引库
         articleRepository.save(article);
@@ -92,7 +91,7 @@ public class ESTest {
 
     @Test
     public void findByTitle() throws Exception {
-        List<Article> list = articleRepository.findByTitleLike("吉哈哈哈哈首大学");
+        List<Article> list = articleRepository.findByTitleLike("吉首哈大学");
         list.stream().forEach(a -> System.out.println(a));
     }
 
