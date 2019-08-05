@@ -22,6 +22,8 @@ import java.util.Optional;
  * @create: 2019-08-03 10:32
  **/
 
+//@ContextConfiguration(locations="classpath*:spring/applicationContext-es.xml")
+
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration("classpath*:spring/applicationContext-es.xml")
 public class ESTest {
