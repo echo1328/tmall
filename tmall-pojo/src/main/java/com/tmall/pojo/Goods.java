@@ -1,25 +1,39 @@
 package com.tmall.pojo;
 
+import org.springframework.data.annotation.Id;
+import org.springframework.data.elasticsearch.annotations.Document;
+import org.springframework.data.elasticsearch.annotations.Field;
+import org.springframework.data.elasticsearch.annotations.FieldType;
+
 import java.io.Serializable;
 
+@Document(indexName = "index_goods", type = "goods")
 public class Goods implements Serializable {
 
+    @Id
+    @Field(index = false, type = FieldType.Integer, store = true)
     private Integer goods_id;
 
+    @Field(index = true, type = FieldType.text, store = true, analyzer = "ik_max_word", searchAnalyzer = "ik_smart")
     private String name;
 
     private String image;
 
+    @Field(index = true, type = FieldType.text, store = true, analyzer = "ik_max_word", searchAnalyzer = "ik_smart")
     private String caption;
 
     private String url;
 
+    @Field(index = false, type = FieldType.Double, store = true)
     private Double price_before;
 
+    @Field(index = false, type = FieldType.Double, store = true)
     private Double price_after;
 
+    @Field(index = true, type = FieldType.text, store = true, analyzer = "ik_max_word", searchAnalyzer = "ik_smart")
     private String introduction;
 
+    @Field(index = true, type = FieldType.text, store = true, analyzer = "ik_max_word", searchAnalyzer = "ik_smart")
     private String activity;
 
     private Integer sale;
