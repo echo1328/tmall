@@ -13,6 +13,9 @@
     <file url="file://$PROJECT_DIR$/../tmall-sellergoods-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../tmall-sellergoods-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../tmall-shop-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tmall-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tmall-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tmall-user-web" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

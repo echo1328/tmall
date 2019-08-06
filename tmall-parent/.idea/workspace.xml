@@ -1,383 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00cc379b-5544-4ddb-b525-2d0711bb8fca" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/HdrHistogram-2.1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/compiler-0.9.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/elasticsearch-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/elasticsearch-rest-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/hppc-0.7.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/httpasyncclient-4.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.5.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/httpcore-nio-4.4.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-dataformat-cbor-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-dataformat-smile-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-dataformat-yaml-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/jna-4.4.0-1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/joda-time-2.9.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/jopt-simple-5.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/jts-1.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lang-mustache-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-api-2.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-core-2.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-to-slf4j-2.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-analyzers-common-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-backward-codecs-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-core-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-grouping-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-highlighter-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-join-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-memory-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-misc-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-queries-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-queryparser-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-sandbox-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-spatial-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-spatial-extras-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-spatial3d-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-suggest-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/netty-buffer-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/netty-codec-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/netty-codec-http-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/netty-common-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/netty-handler-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/netty-resolver-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/netty-transport-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/parent-join-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/percolator-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/reindex-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/securesm-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/slf4j-simple-1.7.21.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/snakeyaml-1.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spatial4j-0.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-2.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-data-elasticsearch-3.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-jms-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-messaging-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/t-digest-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/transport-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/transport-netty3-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/transport-netty4-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-interface/target/classes/com/tmall/search/service/GoodsSearchService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-interface/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-interface/target/tmall-search-interface-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/classes/com/tmall/search/entity/Goods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/classes/com/tmall/search/repositories/GoodsRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/classes/com/tmall/search/service/impl/GoodsSearchServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/classes/spring/applicationContext-es.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/classes/spring/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/surefire-reports/SpringDataElasticSearchTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/surefire-reports/TEST-SpringDataElasticSearchTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/test-classes/SpringDataElasticSearchTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/classes/com/tmall/search/entity/Goods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/classes/com/tmall/search/repositories/GoodsRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/classes/com/tmall/search/service/impl/GoodsSearchServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-es.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/HdrHistogram-2.1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/compiler-0.9.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/druid-1.0.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/dubbo-2.8.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/elasticsearch-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/elasticsearch-rest-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/fastjson-1.2.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/hppc-0.7.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/httpasyncclient-4.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.5.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/httpcore-nio-4.4.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/jackson-dataformat-cbor-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/jackson-dataformat-smile-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/jackson-dataformat-yaml-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.11.0.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/jline-0.9.94.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/jna-4.4.0-1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/joda-time-2.9.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/jopt-simple-5.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/jsqlparser-0.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/jts-1.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lang-mustache-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/log4j-api-2.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/log4j-core-2.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/log4j-to-slf4j-2.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-analyzers-common-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-backward-codecs-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-core-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-grouping-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-highlighter-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-join-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-memory-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-misc-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-queries-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-queryparser-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-sandbox-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-spatial-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-spatial-extras-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-spatial3d-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/lucene-suggest-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.2.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/mybatis-paginator-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.32.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/netty-3.7.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/netty-buffer-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/netty-codec-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/netty-codec-http-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/netty-common-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/netty-handler-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/netty-resolver-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/netty-transport-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-4.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/parent-join-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/percolator-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/reindex-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/securesm-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.24.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/slf4j-simple-1.7.21.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/snakeyaml-1.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spatial4j-0.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-2.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-data-elasticsearch-3.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-jms-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-messaging-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/t-digest-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-dao-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-search-interface-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/transport-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/transport-netty3-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/transport-netty4-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/zkclient-0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/zookeeper-3.4.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/src/main/java/com/tmall/search/controller/GoodsSearchController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/src/main/resources/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/classes/com/tmall/search/controller/GoodsSearchController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/classes/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/classes/spring/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/classes/com/tmall/search/controller/GoodsSearchController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/classes/config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/HdrHistogram-2.1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/compiler-0.9.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/dubbo-2.8.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/elasticsearch-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/elasticsearch-rest-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/fastjson-1.2.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/hppc-0.7.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/httpasyncclient-4.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.5.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/httpcore-nio-4.4.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-dataformat-cbor-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-dataformat-smile-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-dataformat-yaml-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.11.0.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/jline-0.9.94.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/jna-4.4.0-1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/joda-time-2.9.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/jopt-simple-5.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/jts-1.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lang-mustache-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-api-2.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-core-2.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/log4j-to-slf4j-2.9.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-analyzers-common-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-backward-codecs-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-core-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-grouping-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-highlighter-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-join-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-memory-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-misc-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-queries-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-queryparser-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-sandbox-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-spatial-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-spatial-extras-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-spatial3d-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/lucene-suggest-6.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/netty-3.7.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/netty-buffer-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/netty-codec-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/netty-codec-http-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/netty-common-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/netty-handler-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/netty-resolver-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/netty-transport-4.1.13.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/parent-join-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/percolator-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/reindex-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/securesm-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/slf4j-simple-1.7.21.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/snakeyaml-1.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spatial4j-0.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-2.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-data-elasticsearch-3.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-jms-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-messaging-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/t-digest-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-search-interface-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/transport-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/transport-netty3-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/transport-netty4-client-5.6.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/zkclient-0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/zookeeper-3.4.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+    <list default="true" id="00cc379b-5544-4ddb-b525-2d0711bb8fca" name="Default Changelist" comment="elasticsearch-test">
+      <change afterPath="$PROJECT_DIR$/../.idea/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall-springsecurity/src/main/webapp/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall-springsecurity/src/main/webapp/login_error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-common/target/tmall-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-common/target/tmall-common-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-dao/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-dao/target/tmall-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-dao/target/tmall-dao-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-elasticsearch/target/test-classes/ESTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-elasticsearch/target/test-classes/ESTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-manager-web/target/classes/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-manager-web/target/classes/spring/springmvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-manager-web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-manager-web/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/classes/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-sellergoods-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-sellergoods-interface-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-pojo/target/classes/com/tmall/pojo/Goods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-pojo/target/classes/com/tmall/pojo/Goods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-pojo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-pojo/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-pojo/target/tmall-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-pojo/target/tmall-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-search-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-interface/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-interface/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-interface/target/tmall-search-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-interface/target/tmall-search-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-service/target/surefire-reports/SpringDataElasticSearchTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-service/target/surefire-reports/SpringDataElasticSearchTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-service/target/surefire-reports/TEST-SpringDataElasticSearchTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-service/target/surefire-reports/TEST-SpringDataElasticSearchTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-search-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-service/target/tmall-search-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-search-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-search-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-web/target/tmall-search-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-search-interface-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-interface/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-sellergoods-interface/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-interface/target/tmall-sellergoods-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-sellergoods-interface/target/tmall-sellergoods-interface-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-sellergoods-service/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/junit-4.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-jms-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-messaging-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-test-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-dao-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-sellergoods-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tmall-sellergoods-service-1.0-SNAPSHOT/WEB-INF/lib/tmall-sellergoods-interface-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tomcat/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tomcat/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-sellergoods-service/target/tomcat/logs/access_log.2019-08-01" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-shop-web/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-shop-web/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/junit-4.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-jms-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-messaging-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-test-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tmall-shop-web/target/tmall-shop-web-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-springsecurity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-springsecurity/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tmall-springsecurity/src/main/resources/spring-security.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-springsecurity/src/main/resources/spring-security.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -393,6 +66,10 @@
     <ignored path="$PROJECT_DIR$/../tmall-search-web/target/" />
     <ignored path="$PROJECT_DIR$/../tmall-search/target/" />
     <ignored path="$PROJECT_DIR$/../tmall-elasticsearch/target/" />
+    <ignored path="$PROJECT_DIR$/../tmall-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/../tmall-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/../tmall-user-web/target/" />
+    <ignored path="$PROJECT_DIR$/../tmall-springsecurity/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -403,14 +80,15 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -431,16 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/AdTypeMapper.xml" />
-        <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/AreasMapper.xml" />
-        <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/CarMapper.xml" />
-        <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/CitiesMapper.xml" />
-        <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/CommentMapper.xml" />
-        <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/GoodsMapper.xml" />
-        <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/MyOrderMapper.xml" />
-        <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/OrderMapper.xml" />
-        <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/ProvincesMapper.xml" />
-        <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/SeckillMapper.xml" />
         <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/SellerMapper.xml" />
         <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/ShopMapper.xml" />
         <option value="$PROJECT_DIR$/../tmall-dao/src/main/resources/com.tmall.mapper/SortMapper.xml" />
@@ -462,7 +130,6 @@
         <option value="$PROJECT_DIR$/../tmall-elasticsearch/src/main/java/com/tmall/search/entity/Article.java" />
         <option value="$PROJECT_DIR$/../tmall-search-service/src/main/resources/spring/applicationContext-es.xml" />
         <option value="$PROJECT_DIR$/../tmall-elasticsearch/pom.xml" />
-        <option value="$PROJECT_DIR$/../tmall-elasticsearch/src/test/java/ESTest.java" />
         <option value="$PROJECT_DIR$/../tmall-search-service/src/main/java/com/tmall/search/entity/Goods.java" />
         <option value="$PROJECT_DIR$/../tmall-common/pom.xml" />
         <option value="$PROJECT_DIR$/../tmall-pojo/pom.xml" />
@@ -474,7 +141,6 @@
         <option value="$PROJECT_DIR$/../tmall-manager-web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/../tmall-manager-web/src/test/java/com/tmall/manager/controller/BrandControllerTest.java" />
         <option value="$PROJECT_DIR$/../tmall-pojo/src/main/java/com/tmall/pojo/Goods.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../tmall-manager-web/pom.xml" />
         <option value="$PROJECT_DIR$/../tmall-search-web/pom.xml" />
         <option value="$PROJECT_DIR$/../tmall-search-service/src/test/java/SpringDataElasticSearchTest.java" />
@@ -482,6 +148,18 @@
         <option value="$PROJECT_DIR$/../tmall-search-service/src/main/java/com/tmall/search/repositories/GoodsRepository.java" />
         <option value="$PROJECT_DIR$/../tmall-search-web/src/main/java/com/tmall/search/controller/GoodsSearchController.java" />
         <option value="$PROJECT_DIR$/../tmall-search-service/src/main/java/com/tmall/search/service/impl/GoodsSearchServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../tmall-elasticsearch/src/test/java/ESTest.java" />
+        <option value="$PROJECT_DIR$/../tmall-user-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../tmall-user-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/../tmall-user-web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/../tmall-springsecurity/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/../tmall-springsecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/../tmall-springsecurity/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/../tmall-springsecurity/src/main/resources/spring-security.xml" />
+        <option value="$PROJECT_DIR$/../tmall-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../tmall-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../tmall-user-web/src/main/java/com/tmall/user/controller/MessageController.java" />
       </list>
     </option>
   </component>
@@ -519,17 +197,18 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tmall-elasticsearch/src/main/resources/spring" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tmall-springsecurity/src/main/webapp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -544,18 +223,18 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Project\tmall-elasticsearch\src\main\resources\spring" />
-      <recent name="E:\Project\tmall-elasticsearch\src\main\webapp" />
-      <recent name="E:\Project\tmall-search-service\src\main\java\com\tmall\search\entity" />
-      <recent name="E:\Project\tmall-search-service\src\main\resources\spring" />
-      <recent name="E:\Project\tmall-elasticsearch\src\main\resources" />
+      <recent name="E:\Project\tmall-springsecurity\src\main\webapp" />
+      <recent name="E:\Project\tmall-springsecurity\src\main\resources" />
+      <recent name="E:\Project\tmall-springsecurity\src\main\webapp\WEB-INF" />
+      <recent name="E:\Project\tmall-user-web\src\main\webapp" />
+      <recent name="E:\Project\tmall-user-web\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -732,11 +411,11 @@
       <item itemvalue="JUnit.SpringDataElasticSearchTest.test" />
       <item itemvalue="JUnit.SpringDataElasticSearchTest.addDocument" />
       <item itemvalue="JUnit.BrandControllerTest.findAll" />
+      <item itemvalue="JUnit.SpringDataElasticSearchTest.findByName" />
       <item itemvalue="Maven.tmall-search-service [tomcat7:run]" />
       <item itemvalue="Maven.tmall-search-web [tomcat7:run]" />
       <item itemvalue="Maven.tmall-sellergoods-service [tomcat7:run]" />
       <item itemvalue="Maven.tmall-manager-web [tomcat7:run]" />
-      <item itemvalue="JUnit.SpringDataElasticSearchTest.findByName" />
     </list>
     <recent_temporary>
       <list>
@@ -778,7 +457,12 @@
       <workItem from="1564899953950" duration="19426000" />
       <workItem from="1564929359664" duration="2920000" />
       <workItem from="1564933855767" duration="3007000" />
-      <workItem from="1564963603204" duration="12676000" />
+      <workItem from="1564963603204" duration="13195000" />
+      <workItem from="1565003333212" duration="80000" />
+      <workItem from="1565003562328" duration="5212000" />
+      <workItem from="1565019446414" duration="1784000" />
+      <workItem from="1565052867311" duration="6636000" />
+      <workItem from="1565060143551" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1564581235504</created>
@@ -969,7 +653,84 @@
       <option name="project" value="LOCAL" />
       <updated>1564976377041</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="commit">
+      <created>1564976390626</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1564976390626</updated>
+    </task>
+    <task id="LOCAL-00029" summary="commit">
+      <created>1564976402951</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1564976402951</updated>
+    </task>
+    <task id="LOCAL-00030" summary="commit">
+      <created>1564976424064</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1564976424064</updated>
+    </task>
+    <task id="LOCAL-00031" summary="commit">
+      <created>1564976440089</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1564976440089</updated>
+    </task>
+    <task id="LOCAL-00032" summary="commit">
+      <created>1564976570955</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1564976570955</updated>
+    </task>
+    <task id="LOCAL-00033" summary="commit">
+      <created>1565009244945</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1565009244945</updated>
+    </task>
+    <task id="LOCAL-00034" summary="commit">
+      <created>1565021220675</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1565021220675</updated>
+    </task>
+    <task id="LOCAL-00035" summary="commit">
+      <created>1565021235650</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1565021235650</updated>
+    </task>
+    <task id="LOCAL-00036" summary="commit">
+      <created>1565021254459</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1565021254459</updated>
+    </task>
+    <task id="LOCAL-00037" summary="springsecurity">
+      <created>1565055520666</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1565055520666</updated>
+    </task>
+    <task id="LOCAL-00038" summary="commit">
+      <created>1565060307989</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1565060307989</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1005,12 +766,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111695000" />
+    <option name="totallyTimeSpent" value="126248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.24865952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979253" visible="true" weight="0.26742628" />
       <window_info id="Structure" order="1" sideWeight="0.5020747" side_tool="true" weight="0.24865952" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1064,6 +825,7 @@
     <MESSAGE value="搜索模块service" />
     <MESSAGE value="搜索模块web" />
     <MESSAGE value="elasticsearch" />
+    <MESSAGE value="springsecurity" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
@@ -1072,323 +834,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../tmall-dao/src/main/resources/mybatis/SqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-dao/src/main/resources/spring/applicationContext-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-manager-web/src/main/resources/config/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-search-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-search-service/src/main/java/com/tmall/search/entity/Article.java" />
-    <entry file="file://$PROJECT_DIR$/../tmall-search-service/src/main/java/com/tmall/search/repositories/ArticleRepository.java" />
-    <entry file="file://$PROJECT_DIR$/../tmall-search/src/main/resources/applicationContext.xml" />
-    <entry file="file://$PROJECT_DIR$/../tmall-search/pom.xml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/3.0.5.RELEASE/spring-data-elasticsearch-3.0.5.RELEASE.jar!/org/springframework/data/elasticsearch/repository/ElasticsearchRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-sellergoods-service/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-elasticsearch/src/main/resources/spring/applicationContext-es.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="107" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.tmall:tmall-dao:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.tmall:tmall-dao:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="0.0" y="143.0">com.tmall:tmall-dao:1.0-SNAPSHOT</node>
-            <node x="133.0" y="101.99999999999999">com.tmall:tmall-pojo:jar:1.0-SNAPSHOT</node>
-            <node x="129.5" y="143.0">com.github.pagehelper:pagehelper:jar:4.0.0</node>
-            <node x="270.0" y="143.0">com.github.pagehelper:pagehelper:jar:4.0.0/com.github.jsqlparser:jsqlparser:jar:0.9.1</node>
-            <node x="140.5" y="0.0">org.mybatis:mybatis:jar:3.2.8</node>
-            <node x="119.5" y="184.0">org.mybatis:mybatis-spring:jar:1.2.2</node>
-            <node x="109.5" y="60.999999999999986">com.github.miemiedev:mybatis-paginator:jar:1.2.15</node>
-            <node x="275.5" y="60.999999999999986">com.github.miemiedev:mybatis-paginator:jar:1.2.15/org.slf4j:slf4j-api:jar:1.7.2</node>
-            <node x="100.0" y="225.0">mysql:mysql-connector-java:jar:5.1.32</node>
-            <node x="147.5" y="266.0">com.alibaba:druid:jar:1.0.9</node>
-            <node x="274.0" y="245.5">com.alibaba:druid:jar:1.0.9/com.alibaba:jconsole:jar:1.8.0</node>
-            <node x="283.5" y="286.5">com.alibaba:druid:jar:1.0.9/com.alibaba:tools:jar:1.8.0</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.alibaba:druid:jar:1.0.9" target="com.alibaba:druid:jar:1.0.9/com.alibaba:jconsole:jar:1.8.0">
-              <point x="27.5" y="-5.25" />
-              <point x="250.0" y="271.25" />
-              <point x="-36.0" y="-0.0" />
-            </edge>
-            <edge source="com.github.miemiedev:mybatis-paginator:jar:1.2.15" target="org.mybatis:mybatis:jar:3.2.8">
-              <point x="0.0" y="-10.5" />
-              <point x="0.0" y="10.5" />
-            </edge>
-            <edge source="com.tmall:tmall-dao:1.0-SNAPSHOT" target="com.tmall:tmall-pojo:jar:1.0-SNAPSHOT">
-              <point x="40.0" y="-3.0" />
-              <point x="100.0" y="112.49999999999999" />
-              <point x="-42.0" y="-0.0" />
-            </edge>
-            <edge source="com.github.pagehelper:pagehelper:jar:4.0.0" target="com.github.pagehelper:pagehelper:jar:4.0.0/com.github.jsqlparser:jsqlparser:jar:0.9.1">
-              <point x="45.5" y="-0.0" />
-              <point x="-40.0" y="-0.0" />
-            </edge>
-            <edge source="com.tmall:tmall-dao:1.0-SNAPSHOT" target="org.mybatis:mybatis:jar:3.2.8">
-              <point x="40.0" y="-9.0" />
-              <point x="100.0" y="10.5" />
-              <point x="-34.5" y="-0.0" />
-            </edge>
-            <edge source="com.tmall:tmall-dao:1.0-SNAPSHOT" target="org.mybatis:mybatis-spring:jar:1.2.2">
-              <point x="40.0" y="3.0" />
-              <point x="100.0" y="194.5" />
-              <point x="-55.5" y="-0.0" />
-            </edge>
-            <edge source="com.tmall:tmall-dao:1.0-SNAPSHOT" target="com.alibaba:druid:jar:1.0.9">
-              <point x="40.0" y="9.0" />
-              <point x="100.0" y="276.5" />
-              <point x="-27.5" y="-0.0" />
-            </edge>
-            <edge source="com.tmall:tmall-dao:1.0-SNAPSHOT" target="com.github.miemiedev:mybatis-paginator:jar:1.2.15">
-              <point x="40.0" y="-6.0" />
-              <point x="-65.5" y="-0.0" />
-            </edge>
-            <edge source="com.tmall:tmall-dao:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.32">
-              <point x="40.0" y="6.0" />
-              <point x="-75.0" y="-0.0" />
-            </edge>
-            <edge source="com.tmall:tmall-dao:1.0-SNAPSHOT" target="com.github.pagehelper:pagehelper:jar:4.0.0">
-              <point x="40.0" y="-0.0" />
-              <point x="-45.5" y="-0.0" />
-            </edge>
-            <edge source="com.alibaba:druid:jar:1.0.9" target="com.alibaba:druid:jar:1.0.9/com.alibaba:tools:jar:1.8.0">
-              <point x="27.5" y="5.25" />
-              <point x="250.0" y="281.75" />
-              <point x="270.0" y="297.0" />
-              <point x="-26.5" y="-0.0" />
-            </edge>
-            <edge source="com.github.miemiedev:mybatis-paginator:jar:1.2.15" target="com.github.miemiedev:mybatis-paginator:jar:1.2.15/org.slf4j:slf4j-api:jar:1.7.2">
-              <point x="65.5" y="-0.0" />
-              <point x="-34.5" y="-0.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="25.0" y="52.0" />
-          <SelectedNodes>
-            <node>com.tmall:tmall-dao:1.0-SNAPSHOT</node>
-            <node>com.alibaba:druid:jar:1.0.9/com.alibaba:tools:jar:1.8.0</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.tmall:tmall-search-interface:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.tmall:tmall-search-interface:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.tmall:tmall-search-interface:1.0-SNAPSHOT</node>
-            <node x="" y="">com.tmall:tmall-pojo:jar:1.0-SNAPSHOT</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="128.0" y="11.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.tmall:tmall-sellergoods-service:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.tmall:tmall-sellergoods-service:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.tmall:tmall-sellergoods-service:1.0-SNAPSHOT</node>
-            <node x="" y="">com.tmall:tmall-dao:jar:1.0-SNAPSHOT</node>
-            <node x="" y="">com.tmall:tmall-dao:jar:1.0-SNAPSHOT/com.tmall:tmall-pojo:jar:1.0-SNAPSHOT</node>
-            <node x="" y="">com.tmall:tmall-dao:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:4.0.0</node>
-            <node x="" y="">com.tmall:tmall-dao:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:4.0.0/com.github.jsqlparser:jsqlparser:jar:0.9.1</node>
-            <node x="" y="">com.tmall:tmall-dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.2.8</node>
-            <node x="" y="">com.tmall:tmall-dao:jar:1.0-SNAPSHOT/org.mybatis:mybatis-spring:jar:1.2.2</node>
-            <node x="" y="">com.tmall:tmall-dao:jar:1.0-SNAPSHOT/com.github.miemiedev:mybatis-paginator:jar:1.2.15</node>
-            <node x="" y="">com.tmall:tmall-dao:jar:1.0-SNAPSHOT/com.github.miemiedev:mybatis-paginator:jar:1.2.15/org.slf4j:slf4j-api:jar:1.7.2</node>
-            <node x="" y="">com.tmall:tmall-dao:jar:1.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.32</node>
-            <node x="" y="">com.tmall:tmall-dao:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.9</node>
-            <node x="" y="">com.tmall:tmall-dao:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.9/com.alibaba:jconsole:jar:1.8.0</node>
-            <node x="" y="">com.tmall:tmall-dao:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.9/com.alibaba:tools:jar:1.8.0</node>
-            <node x="" y="">com.tmall:tmall-sellergoods-interface:jar:1.0-SNAPSHOT</node>
-            <node x="" y="">org.springframework:spring-context:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:4.3.18.RELEASE/org.springframework:spring-aop:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:4.3.18.RELEASE/org.springframework:spring-core:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:4.3.18.RELEASE/org.springframework:spring-core:jar:4.3.18.RELEASE/commons-logging:commons-logging:jar:1.2</node>
-            <node x="" y="">org.springframework:spring-context:jar:4.3.18.RELEASE/org.springframework:spring-expression:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-beans:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-webmvc:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-webmvc:jar:4.3.18.RELEASE/org.springframework:spring-web:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-jdbc:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-jdbc:jar:4.3.18.RELEASE/org.springframework:spring-tx:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-aspects:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-aspects:jar:4.3.18.RELEASE/org.aspectj:aspectjweaver:jar:1.8.9</node>
-            <node x="" y="">org.springframework:spring-jms:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-jms:jar:4.3.18.RELEASE/org.springframework:spring-messaging:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context-support:jar:4.3.18.RELEASE</node>
-            <node x="" y="">org.springframework:spring-test:jar:4.3.18.RELEASE</node>
-            <node x="" y="">com.alibaba:dubbo:jar:2.8.4</node>
-            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7</node>
-            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/org.slf4j:slf4j-api:jar:1.6.1</node>
-            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/org.slf4j:slf4j-log4j12:jar:1.6.1</node>
-            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/log4j:log4j:jar:1.2.16</node>
-            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/jline:jline:jar:0.9.94</node>
-            <node x="" y="">org.apache.zookeeper:zookeeper:jar:3.4.7/io.netty:netty:jar:3.7.0.Final</node>
-            <node x="" y="">com.github.sgroschupf:zkclient:jar:0.1</node>
-            <node x="" y="">com.github.sgroschupf:zkclient:jar:0.1/log4j:log4j:jar:1.2.14</node>
-            <node x="" y="">junit:junit:jar:4.12</node>
-            <node x="" y="">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
-            <node x="" y="">com.alibaba:fastjson:jar:1.2.28</node>
-            <node x="" y="">javassist:javassist:jar:3.11.0.GA</node>
-            <node x="" y="">commons-codec:commons-codec:jar:1.10</node>
-            <node x="" y="">javax.servlet:servlet-api:jar:2.5</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.5415986949429041" x="662.0" y="593.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.tmall:tmall-elasticsearch:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.tmall:tmall-elasticsearch:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.tmall:tmall-elasticsearch:1.0-SNAPSHOT</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-core:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-analyzers-common:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-backward-codecs:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-grouping:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-highlighter:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-join:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-memory:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-misc:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-queries:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-queryparser:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-sandbox:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-spatial:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-spatial-extras:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-spatial3d:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.lucene:lucene-suggest:jar:6.6.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.elasticsearch:securesm:jar:1.2</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/net.sf.jopt-simple:jopt-simple:jar:5.0.2</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/com.carrotsearch:hppc:jar:0.7.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/joda-time:joda-time:jar:2.9.5</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.yaml:snakeyaml:jar:1.15</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/com.fasterxml.jackson.core:jackson-core:jar:2.8.6</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/com.fasterxml.jackson.dataformat:jackson-dataformat-smile:jar:2.8.6</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:jar:2.8.6</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:jar:2.8.6</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/com.tdunning:t-digest:jar:3.0</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.hdrhistogram:HdrHistogram:jar:2.1.9</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.apache.logging.log4j:log4j-api:jar:2.9.1</node>
-            <node x="" y="">org.elasticsearch:elasticsearch:jar:5.6.8/org.elasticsearch:jna:jar:4.4.0-1</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty3-client:jar:5.6.8</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty3-client:jar:5.6.8/io.netty:netty:jar:3.10.6.Final</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty3-client:jar:5.6.8/org.locationtech.spatial4j:spatial4j:jar:0.6</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty3-client:jar:5.6.8/com.vividsolutions:jts:jar:1.13</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty3-client:jar:5.6.8/org.apache.logging.log4j:log4j-core:jar:2.9.1</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty4-client:jar:5.6.8</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty4-client:jar:5.6.8/io.netty:netty-buffer:jar:4.1.13.Final</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty4-client:jar:5.6.8/io.netty:netty-codec:jar:4.1.13.Final</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty4-client:jar:5.6.8/io.netty:netty-codec-http:jar:4.1.13.Final</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty4-client:jar:5.6.8/io.netty:netty-common:jar:4.1.13.Final</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty4-client:jar:5.6.8/io.netty:netty-handler:jar:4.1.13.Final</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty4-client:jar:5.6.8/io.netty:netty-resolver:jar:4.1.13.Final</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:transport-netty4-client:jar:5.6.8/io.netty:netty-transport:jar:4.1.13.Final</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:reindex-client:jar:5.6.8</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:reindex-client:jar:5.6.8/org.elasticsearch.client:elasticsearch-rest-client:jar:5.6.8</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:reindex-client:jar:5.6.8/org.elasticsearch.client:elasticsearch-rest-client:jar:5.6.8/org.apache.httpcomponents:httpclient:jar:4.5.2</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:reindex-client:jar:5.6.8/org.elasticsearch.client:elasticsearch-rest-client:jar:5.6.8/org.apache.httpcomponents:httpcore:jar:4.4.5</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:reindex-client:jar:5.6.8/org.elasticsearch.client:elasticsearch-rest-client:jar:5.6.8/org.apache.httpcomponents:httpasyncclient:jar:4.1.2</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:reindex-client:jar:5.6.8/org.elasticsearch.client:elasticsearch-rest-client:jar:5.6.8/org.apache.httpcomponents:httpcore-nio:jar:4.4.5</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:reindex-client:jar:5.6.8/org.elasticsearch.client:elasticsearch-rest-client:jar:5.6.8/commons-codec:commons-codec:jar:1.10</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:reindex-client:jar:5.6.8/org.elasticsearch.client:elasticsearch-rest-client:jar:5.6.8/commons-logging:commons-logging:jar:1.1.3</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:lang-mustache-client:jar:5.6.8</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:lang-mustache-client:jar:5.6.8/com.github.spullara.mustache.java:compiler:jar:0.9.3</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:percolator-client:jar:5.6.8</node>
-            <node x="" y="">org.elasticsearch.client:transport:jar:5.6.8/org.elasticsearch.plugin:parent-join-client:jar:5.6.8</node>
-            <node x="" y="">org.apache.logging.log4j:log4j-to-slf4j:jar:2.9.1</node>
-            <node x="" y="">org.apache.logging.log4j:log4j-to-slf4j:jar:2.9.1/org.slf4j:slf4j-api:jar:1.7.25</node>
-            <node x="" y="">org.slf4j:slf4j-api:jar:1.7.24</node>
-            <node x="" y="">org.slf4j:slf4j-simple:jar:1.7.21</node>
-            <node x="" y="">org.slf4j:slf4j-simple:jar:1.7.21/org.slf4j:slf4j-api:jar:1.7.21</node>
-            <node x="" y="">log4j:log4j:jar:1.2.12</node>
-            <node x="" y="">junit:junit:jar:4.12</node>
-            <node x="" y="">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
-            <node x="" y="">com.fasterxml.jackson.core:jackson-core:jar:2.8.1</node>
-            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.8.1</node>
-            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.8.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0</node>
-            <node x="" y="">com.fasterxml.jackson.core:jackson-annotations:jar:2.8.1</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/org.springframework:spring-context:jar:5.0.4.RELEASE</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/org.springframework:spring-context:jar:5.0.4.RELEASE/org.springframework:spring-aop:jar:5.0.4.RELEASE</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/org.springframework:spring-context:jar:5.0.4.RELEASE/org.springframework:spring-beans:jar:5.0.4.RELEASE</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/org.springframework:spring-context:jar:5.0.4.RELEASE/org.springframework:spring-expression:jar:5.0.4.RELEASE</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/org.springframework:spring-tx:jar:5.0.4.RELEASE</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/org.springframework.data:spring-data-commons:jar:2.0.5.RELEASE</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/org.springframework.data:spring-data-commons:jar:2.0.5.RELEASE/org.slf4j:slf4j-api:jar:1.7.24</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/commons-lang:commons-lang:jar:2.6</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/joda-time:joda-time:jar:2.9.9</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/org.elasticsearch:elasticsearch:jar:5.5.0</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/org.elasticsearch.client:transport:jar:5.5.0</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/com.fasterxml.jackson.core:jackson-core:jar:2.9.4</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.4</node>
-            <node x="" y="">org.springframework.data:spring-data-elasticsearch:jar:3.0.5.RELEASE/org.slf4j:slf4j-api:jar:1.7.24</node>
-            <node x="" y="">org.springframework:spring-test:jar:5.0.4.RELEASE</node>
-            <node x="" y="">org.springframework:spring-test:jar:5.0.4.RELEASE/org.springframework:spring-core:jar:5.0.4.RELEASE</node>
-            <node x="" y="">org.springframework:spring-test:jar:5.0.4.RELEASE/org.springframework:spring-core:jar:5.0.4.RELEASE/org.springframework:spring-jcl:jar:5.0.4.RELEASE</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.1332116788321167" x="353.0" y="1750.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../tmall-elasticsearch/src/main/resources/spring/applicationContext-service.xml" />
     <entry file="file://$PROJECT_DIR$/../tmall-elasticsearch/src/main/webapp/WEB-INF/web.xml" />
     <entry file="uml://MAVEN/com.tmall:tmall-search-service:1.0-SNAPSHOT">
@@ -1570,20 +1015,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="982">
-          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-sellergoods-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="16" selection-start-line="16" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../tmall-pojo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -1608,27 +1039,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-search-service/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-sellergoods-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1320">
-          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-search-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="122" column="30" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -1661,20 +1071,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-manager-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-manager-web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../tmall-manager-web/src/test/java/com/tmall/manager/controller/BrandControllerTest.java" />
     <entry file="file://$PROJECT_DIR$/../tmall-sellergoods-service/src/main/java/com/tmall/sellergoods/service/impl/BrandServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1693,20 +1089,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="300" column="27" selection-start-line="300" selection-start-column="27" selection-end-line="300" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-manager-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="106" column="34" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../tmall-search-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
@@ -1718,26 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1050">
           <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-elasticsearch/src/test/java/ESTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="105" column="54" lean-forward="true" selection-start-line="105" selection-start-column="54" selection-end-line="105" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-search-service/src/main/java/com/tmall/search/service/impl/GoodsSearchServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="30" column="122" selection-start-line="30" selection-start-column="122" selection-end-line="30" selection-end-column="122" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1795,6 +1157,187 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-elasticsearch/src/test/java/ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-user-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-sellergoods-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-sellergoods-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-search-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="122" column="30" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-search-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-search-service/src/main/java/com/tmall/search/service/impl/GoodsSearchServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="122" selection-start-line="30" selection-start-column="122" selection-end-line="30" selection-end-column="122" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-user-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-user-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-manager-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-user-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-manager-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-user-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-manager-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2086">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-springsecurity/src/main/webapp/login_error.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-springsecurity/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-springsecurity/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-springsecurity/src/main/resources/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-springsecurity/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-springsecurity/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1146">
+          <caret line="84" column="40" lean-forward="true" selection-start-line="84" selection-start-column="40" selection-end-line="84" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2130">
+          <caret line="262" column="48" selection-start-line="262" selection-start-column="48" selection-end-line="262" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-user-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="96" column="21" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-user-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="102" column="21" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-user-web/src/main/java/com/tmall/user/controller/MessageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-user-web/src/main/java/com/tmall/user/controller/ad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1847,7 +1390,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>tmall-search-service</last-edited>
+          <last-edited>Web|tmall-springsecurity</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

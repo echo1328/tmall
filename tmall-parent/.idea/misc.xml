@@ -9,12 +9,16 @@
     <file type="web" url="file://$PROJECT_DIR$/../tmall-search-web" />
     <file type="web" url="file://$PROJECT_DIR$/../tmall-sellergoods-service" />
     <file type="web" url="file://$PROJECT_DIR$/../tmall-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../tmall-springsecurity" />
+    <file type="web" url="file://$PROJECT_DIR$/../tmall-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../tmall-user-web" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../tmall-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/../tmall-springsecurity/pom.xml" />
       </list>
     </option>
   </component>

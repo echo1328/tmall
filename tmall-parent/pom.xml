@@ -18,6 +18,9 @@
         <module>../tmall-search-interface</module>
         <module>../tmall-search-service</module>
         <module>../tmall-search-web</module>
+        <module>../tmall-user-interface</module>
+        <module>../tmall-user-service</module>
+        <module>../tmall-user-web</module>
     </modules>
 
     <packaging>pom</packaging>
