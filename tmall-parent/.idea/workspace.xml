@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00cc379b-5544-4ddb-b525-2d0711bb8fca" name="Default Changelist" comment="elasticsearch-test">
+    <list default="true" id="00cc379b-5544-4ddb-b525-2d0711bb8fca" name="Default Changelist" comment="commit">
       <change afterPath="$PROJECT_DIR$/../.idea/Project.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
@@ -17,11 +17,7 @@
       <change beforePath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-common-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-sellergoods-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-manager-web/target/tmall-manager-web-1.0-SNAPSHOT/WEB-INF/lib/tmall-sellergoods-interface-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-pojo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-pojo/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-pojo/target/tmall-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-pojo/target/tmall-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tmall-search-interface/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tmall-search-interface/target/maven-archiver/pom.properties" afterDir="false" />
@@ -129,7 +125,6 @@
         <option value="$PROJECT_DIR$/../tmall-elasticsearch/src/main/java/com/tmall/search/repositories/ArticleRepository.java" />
         <option value="$PROJECT_DIR$/../tmall-elasticsearch/src/main/java/com/tmall/search/entity/Article.java" />
         <option value="$PROJECT_DIR$/../tmall-search-service/src/main/resources/spring/applicationContext-es.xml" />
-        <option value="$PROJECT_DIR$/../tmall-elasticsearch/pom.xml" />
         <option value="$PROJECT_DIR$/../tmall-search-service/src/main/java/com/tmall/search/entity/Goods.java" />
         <option value="$PROJECT_DIR$/../tmall-common/pom.xml" />
         <option value="$PROJECT_DIR$/../tmall-pojo/pom.xml" />
@@ -160,6 +155,7 @@
         <option value="$PROJECT_DIR$/../tmall-user-service/pom.xml" />
         <option value="$PROJECT_DIR$/../tmall-user-web/pom.xml" />
         <option value="$PROJECT_DIR$/../tmall-user-web/src/main/java/com/tmall/user/controller/MessageController.java" />
+        <option value="$PROJECT_DIR$/../tmall-elasticsearch/pom.xml" />
       </list>
     </option>
   </component>
@@ -462,7 +458,7 @@
       <workItem from="1565003562328" duration="5212000" />
       <workItem from="1565019446414" duration="1784000" />
       <workItem from="1565052867311" duration="6636000" />
-      <workItem from="1565060143551" duration="322000" />
+      <workItem from="1565060143551" duration="909000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1564581235504</created>
@@ -730,7 +726,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565060307989</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="commit">
+      <created>1565060672347</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1565060672347</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -766,7 +769,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126248000" />
+    <option name="totallyTimeSpent" value="126835000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -970,13 +973,6 @@
           <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tmall-elasticsearch/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1335,6 +1331,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmall-elasticsearch/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
