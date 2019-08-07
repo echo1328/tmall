@@ -1,4 +1,4 @@
-package com.tmall.test;
+package com.tmall;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @program: tmall-parent
  * @description: Application
  * @author: wenlongzhou
- * @create: 2019-08-07 08:55
+ * @create: 2019-08-07 10:52
  **/
 
 @SpringBootApplication
