@@ -1,0 +1,17 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /tmall
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/tmalldb?characterEncoding=utf8&useSSL=false&serverTimezone=UTC
+    username: root
+    password: 123456
+  jpa:
+    database: mysql
+    show-sql: true
+  mvc:
+    view:
+      prefix: classpath:/templates/
+      suffix: .html
