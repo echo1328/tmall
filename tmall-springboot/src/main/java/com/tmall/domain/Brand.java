@@ -15,7 +15,7 @@ import java.io.Serializable;
 public class Brand implements Serializable {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @GeneratedValue(strategy = GenerationType.IDENTITY) //自动增长主键
     @Column(name = "brand_id")
     private Integer brand_id;
 
