@@ -21,24 +21,25 @@ import java.util.List;
  */
 
 @RestController
+@RequestMapping("/sorts")
 public class SortController {
 
     @Autowired
     private SortService sortService;
 
     //@RequestMapping(value = "/sorts", method = RequestMethod.GET)
-    @GetMapping("/sorts")
+    @GetMapping
     public List<Sort> findAll() {
         return sortService.findAll();
     }
 
     //使用路径占位符(路径传参)
-    @GetMapping("/sorts/{id}")
+    @GetMapping("/{id}")
     public Sort findById(@PathVariable("id") int id) {
         return sortService.findById(id);
     }
 
-    @DeleteMapping("/sorts/{id}")
+    @DeleteMapping("/{id}")
     public Result deleteById(@PathVariable("id") int id, HttpServletResponse response) {
         try {
             sortService.deleteById(id);
@@ -51,7 +52,7 @@ public class SortController {
         }
     }
 
-    @PostMapping("/sorts")
+    @PostMapping
     public Sort add(Sort sort) {
         return sortService.add(sort);
     }
