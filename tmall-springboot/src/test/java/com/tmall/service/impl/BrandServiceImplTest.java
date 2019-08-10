@@ -43,7 +43,7 @@ public class BrandServiceImplTest {
     @Test
     public void findWithExample() {
         Brand brand = new Brand();
-        brand.setName("三星");
+        brand.setName("三星2");
         Example<Brand> example = Example.of(brand);
         System.out.println(brandJpa.findAll(example));
     }

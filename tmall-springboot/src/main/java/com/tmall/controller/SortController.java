@@ -53,7 +53,7 @@ public class SortController {
     }
 
     @PostMapping
-    public Sort add(Sort sort) {
+    public Sort add(@RequestBody Sort sort) {
         return sortService.add(sort);
     }
 

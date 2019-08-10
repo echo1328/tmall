@@ -13,14 +13,12 @@ public interface BrandService {
 
     public void add(Brand brand);
 
-    public Brand findOne(int id);
+    public Brand findById(int id);
 
     public void update(Brand brand);
 
     public void delete(int[] ids);
 
-    public void delete(int id);
-
-    public PageResult findPage(Brand brand, int pageNum, int pageSize);
+    public void deleteById(int id);
 
 }

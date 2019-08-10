@@ -45,7 +45,7 @@ public class BrandServiceImpl implements BrandService {
     }
 
     @Override
-    public Brand findOne(int id) {
+    public Brand findById(int id) {
         Optional<Brand> optional = brandJpa.findById(id);
         Brand brand = optional.get();
         return brand;
@@ -64,16 +64,8 @@ public class BrandServiceImpl implements BrandService {
     }
 
     @Override
-    public void delete(int id) {
+    public void deleteById(int id) {
         brandJpa.deleteById(id);
-    }
-
-    @Override
-    public PageResult findPage(Brand brand, int pageNum, int pageSize) {
-        Example<Brand> example = Example.of(brand);
-        Pageable pageable = PageRequest.of(pageNum, pageSize);
-        Page<Brand> page = brandJpa.findAll(example, pageable);
-        return new PageResult(page.getTotalElements(),page.getContent());
     }
 
 }

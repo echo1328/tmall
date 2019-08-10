@@ -5,10 +5,7 @@ import com.tmall.domain.PageResult;
 import com.tmall.domain.Result;
 import com.tmall.service.BrandService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -19,24 +16,28 @@ import java.util.List;
  * @create: 2019-08-07 10:43
  **/
 
+@CrossOrigin
 @RestController
-@RequestMapping("/brand")
+@RequestMapping("/brands")
 public class BrandController {
 
     @Autowired
     private BrandService brandService;
 
-    @RequestMapping("/findAll")
+    @CrossOrigin
+    @GetMapping
     public List<Brand> findAll() {
         return brandService.findAll();
     }
 
-    @RequestMapping("/findPage")
-    public PageResult findPage(int page, int size) {
+    @CrossOrigin
+    @GetMapping("/{page}/{size}")
+    public PageResult findPage(@PathVariable int page, @PathVariable int size) {
         return brandService.findPage(page, size);
     }
 
-    @RequestMapping("/add")
+    @CrossOrigin
+    @PostMapping
     public Result add(@RequestBody Brand brand) {
         try {
             brandService.add(brand);
@@ -48,12 +49,14 @@ public class BrandController {
         }
     }
 
-    @RequestMapping("/findOne")
-    public Brand findOne(int id) {
-        return brandService.findOne(id);
+    @CrossOrigin
+    @GetMapping("/{id}")
+    public Brand findById(@PathVariable int id) {
+        return brandService.findById(id);
     }
 
-    @RequestMapping("/update")
+    @CrossOrigin
+    @PutMapping
     public Result update(@RequestBody Brand brand) {
         try {
             brandService.update(brand);
@@ -64,8 +67,10 @@ public class BrandController {
         }
     }
 
-    @RequestMapping("/delete")
+    @CrossOrigin
+    @DeleteMapping
     public Result delete(int[] ids) {
+        System.out.println("ids:" + ids);
         try {
             brandService.delete(ids);
             return new Result(true,"删除成功");
@@ -75,20 +80,16 @@ public class BrandController {
         }
     }
 
-    @RequestMapping("/deleteOne")
-    public Result delete(int id) {
+    @CrossOrigin
+    @DeleteMapping("/{id}")
+    public Result deleteById(@PathVariable int id) {
         try {
-            brandService.delete(id);
+            brandService.deleteById(id);
             return new Result(true,"删除成功");
         } catch (Exception e) {
             e.printStackTrace();
             return new Result(false,"删除失败");
         }
-    }
-
-    @RequestMapping("/search")
-    public PageResult search(@RequestBody Brand brand, int page, int size) {
-        return brandService.findPage(brand,page,size);
     }
 
 }
