@@ -69,7 +69,8 @@ public class Goods implements Serializable {
     @Column(name = "is_marketable")
     private Integer is_marketable;
 
-//    private int order_amount;
+    @Transient
+    private int order_amount;
 
     public Integer getGoods_id() {
         return goods_id;
@@ -231,13 +232,13 @@ public class Goods implements Serializable {
         this.is_marketable = is_marketable;
     }
 
-//    public int getOrder_amount() {
-//        return order_amount;
-//    }
-//
-//    public void setOrder_amount(int order_amount) {
-//        this.order_amount = order_amount;
-//    }
+    public int getOrder_amount() {
+        return order_amount;
+    }
+
+    public void setOrder_amount(int order_amount) {
+        this.order_amount = order_amount;
+    }
 
     @Override
     public String toString() {
@@ -262,7 +263,7 @@ public class Goods implements Serializable {
                 ", shop_id=" + shop_id +
                 ", status=" + status +
                 ", is_marketable=" + is_marketable +
-//                ", order_amount=" + order_amount +
+                ", order_amount=" + order_amount +
                 '}';
     }
 
